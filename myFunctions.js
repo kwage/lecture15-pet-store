@@ -1,5 +1,6 @@
 
 window.addEventListener('load', function() {
+    loadWeatherInformation();
     let myBtn = document.getElementById('rose-adopt-button');
     myBtn.addEventListener('click', function() {
         myBtn.innerText = "Rose is adopted!";

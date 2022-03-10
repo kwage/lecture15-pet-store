@@ -6,3 +6,17 @@
 .pet-section {
     margin-bottom: 30px;
 }
+
+.did-you-know-box {
+    padding: 10px;
+    border-width: 1px;
+    border-color: #a27c34;
+    border-style: solid;
+    border-radius: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#animal-fact {
+    font-weight: bold;
+}
